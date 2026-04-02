@@ -234,7 +234,7 @@ export function ModernTurkishMenu() {
 
         {/* Price Update Date */}
         <div className="flex justify-end mt-8 mr-4">
-          <p className="text-sm text-gray-500 italic">Fiyat güncellenme tarihi: 28.02.2026</p>
+          <p className="text-sm text-gray-500 italic">Fiyat güncellenme tarihi: 2 Nisan 2026</p>
         </div>
       </div>
     </div>
