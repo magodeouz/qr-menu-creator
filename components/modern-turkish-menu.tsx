@@ -21,7 +21,7 @@ const menuData = {
     { name: "Peynirli Rulo Börek", subtitle: "(95gr)", price: "60₺" },
     { name: "Balkan Çöreği", subtitle: "(95gr)", price: "70₺" },
     { name: "Pizza Çörek", subtitle: "(95gr, Salam, Sosis, Sucuk)", price: "80₺" },
-    { name: "Sarma", subtitle: "(150gr, Yanında Yoğurt İle)", price: "170₺" },
+    { name: "Sarma", subtitle: "(150gr, Yanında Yoğurt İle)", price: "200₺" },
   ],
   tatlılar: [
     { name: "Donut", subtitle: "(Strowjelly 73gr - Nutzilla 71gr)", price: "120₺" },
@@ -47,7 +47,7 @@ const menuData = {
     { name: "Ayran", price: "30₺" },
     { name: "Kola", price: "80₺" },
     { name: "Ice Tea", price: "80₺" },
-    { name: "Cool Lime", price: "160₺" },
+    { name: "Cool Lime", price: "170₺" },
     { name: "Meyveli Soda", price: "60₺" },
     { name: "Sade Soda", price: "40₺" },
   ],
